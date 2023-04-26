@@ -1,1 +1,16 @@
 /* your code */
+*{
+  color:black;
+  width: 300px;
+  heigth: 100px;
+  
+}
+
+.head{
+  background-color: azure;
+}
+
+.body{
+  background-color: aliceblue;
+  
+}
